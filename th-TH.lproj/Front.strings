@@ -1,0 +1,173 @@
+/* 
+  Front.strings
+  Typora
+
+ by hi@typora.io
+
+ Thai translated by Phongsathorn KITTIWORAPANYA
+*/
+
+/* Common */
+"OK" = "ตกลง";
+"Cancel" = "ยกเลิก";
+"Yes" = "ใช่";
+"No" = "ไม่ใช่";
+"Close" = "ปิด";
+"Select" = "เลือก";
+"Continue" = "ต่อไป";
+"Learn More…" = "อ่านเพิ่มเติม…";
+"Untitled" = "ไม่มีหัวข้อ";
+"Undo" = "เลิกทำ";
+"Dismiss" = "ปล่อยผ่าน";
+"Confirm" = "ยืนยัน";
+"Error" = "ข้อผิดพลาด";
+
+/* Search Panel */
+"Search" = "ค้นหา";
+"Replace" = "แทนที่";
+"All" = "ทั้งหมด";
+"Search text not found in article" = "ไม่พบข้อความนี้ในบทความ";
+"search text" = "ค้นหาข้อความ";
+
+/* Quick Open */
+"Search by file name" = "ค้นหาจากชื่อไฟล์";
+"Searching" = "กำลังค้นหา";
+"Gathering more results" = "แสดงผลลัพธ์เพิ่มเติม";
+
+/* Tables */
+"Insert Table" = "แทรกตาราง";
+"Columns" = "คอลัมน์";
+"Rows" = "แถว";
+"Align Left" = "จัดชิดซ้าย";
+"Align Center" = "จัดกึ่งกลาง";
+"Align Right" = "จัดชิดขวา";
+"Resize Table" = "ปรับขนาดตาราง";
+"Delete Table" = "ลบตาราง";
+
+/* Images */
+"Copy Image To..." = "คัดลอกรูปไปที่...";
+"Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora กำลังคัดลอกรูปที่แทรกเข้ามาล่าสุดไปที่โฟลเดอร์ <code id='image-create-folder-target'></code> ที่ตั้งค่าไว้ใน YAML หรือจากการตั้งค่าส่วนกลาง แต่ไม่พบโฟลเดอร์ที่กำหนดไว้ คุณต้องการสร้างโฟลเดอร์นั้นไหม?";
+"Create Folder" = "สร้างโฟลเดอร์";
+
+/* Math */
+"Edit" = "แก้ไข";
+"Delete Math" = "ลบสูตรคณิตศาสตร์";
+"Preview" = "ดูตัวอย่าง";
+
+/* Sidebar */
+"Articles" = "บทความ";
+"Outline" = "เค้าโครง";
+"Files" = "ไฟล์";
+"Switch to File List view" = "สลับไปดูไฟล์ในมุมมองรายการ";
+"Switch to File Tree view" = "สลับไปดูไฟล์ในมุมมองต้นไม้";
+"Switch to Outline view" = "สลับไปดูเค้าโครง";
+"Close sidebar" = "ปิดแถบข้าง";
+"Loading" = "กำลังโหลด";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "โฟล์เดอร์ที่เลือกมีไฟล์มากเกินไป \nกรุณาเปลี่ยนไป <a id='switch-to-tree-on-oversize'>ดูไฟล์ในมุมมองต้นไม้</a> เพื่อประสิทธิภาพที่ดีขึ้น";
+"New File" = "สร้างไฟล์ใหม่";
+"Unpin Outline Panel" = "ยกเลิกการปักหมุดแผงเค้าโครง";
+"Open Folder..." = "เปิดโฟลเดอร์...";
+"Action" = "การกระทำ";
+"Close Sidebar Menu" = "ปิดเมนูแถบข้าง";
+"Reveal in Finder" = "แสดงใน Finder";
+"Reveal in File Explorer" = "แสดงใน File Explorer";
+"Refresh Folder" = "โหลดโฟลเดอร์ใหม่";
+"Sort" = "จัดเรียง";
+"Group By Folder" = "จัดกลุ่มจากโฟลเดอร์";
+"Sort Naturally" = "จัดเรียงแบบธรรมดา";
+"Sort by Name (Ascending)" = เรียงจากชื่อ (จาก ก - ฮ)";
+"Sort by Modification Date (Ascending)" = "เรียงจากวันที่แก้ไข (จากเก่าสุด - ล่าสุด)";
+"Sort by Name (Descending)" = "เรียงจากชื่อ (จาก ฮ - ก)";
+"Sort by Modification Date (Descending)" = "เรียงจากวันที่แก้ไข (จากล่าสุด - เก่าสุด)";
+"Location" = "ตำแหน่ง";
+"Switch File List/Tree View" = "สลับดูไฟล์ในมุมมองรายการ/ต้นไม้";
+"No Files Available" = "ไม่มีไฟล์";
+"No Folder is Opened." = "ไม่มีโฟลเดอร์ถูกเปิด";
+"Outline is Empty." = "ไม่มีเค้าโครง";
+
+/* Status Bar */
+"Toggle Sidebar" = "แสดงแถบข้าง";
+"Toggle Source Code Mode" = "สลับเป็นโหมด Source Code";
+"Exit Source Code Mode" = "ปิดโหมด Source Code";
+
+"Table of Contents" = "สารบัญ";
+"Empty Diagram" = "ไม่มีแผนภาพ";
+"Input Math TeX here" = "ใส่ Math TeX ที่นี่";
+
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "ต้องระบุการอ้างอิงเชิงอรรถ <b>{0}</b> ด้วยคำสั่ง <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "ต้องระบุลิงก์อ้างอิง <b>[{0}]</b> ด้วยคำสั่ง <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "กรุณาระบุแหล่งอ้างอิงของภาพ ด้วยคำสั่ง \n[{0}]: http://example.png";
+
+/* msg */
+"Failed to create file" = "สร้างไฟล์ไม่สำเร็จ";
+"Failed to create folder" = "สร้างโฟลเดอร์ไม่สำเร็จ";
+"Failed to rename file" = "เปลี่ยนชื่อไฟล์ไม่สำเร็จ";
+"Folder does not exist at %@" = "ไม่พบโฟลเดอร์ทีตำแหน่ง %@";
+"File with the same name already exists at target path" = "มีไฟล์ชื่อนี้อยู่แล้วในตำแหน่งที่กำหนด";
+"Apply to All" = "ปรับใช้ทั้งหมด";
+"Overwrite" = "เขียนทับ";
+"Stop" = "หยุด";
+"back to document" = "กลับไปที่เอกสาร";
+"Failed to load file" = "โหลดไฟล์ไม่สำเร็จ";
+"Save File Failed!" = "บันทึกไฟล์ไม่สำเร็จ!";
+"Cannot open folder {0}" = "ไม่สามารถเปิดโฟลเดอร์ {0}";
+
+"File content is changed by external applications. Reload content from disk ?" = "เนื้อหาในไฟล์ถูกแก้ไขโดยแอปพลิเคชั่นภายนอก โหลดเนื้อหาใหม่?";
+"Should continue moving and overwrite exisiting file(s) ?" = "ต้องการดำเนินการย้ายและเขียนทับไฟล์ที่มีอยู่แล้ว?";
+
+"Rename to \"{0}\" ?" = "เปลี่ยนชื่อเป็น \"{0}\" ?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "เปลี่ยนชื่อจาก \"{0}\" เป็น \"{1}\" ไม่สำเร็จ";
+
+/* Image upload & move */
+"Successfully uploaded {0} images." = "อัพโหลดรูปภาพ {0} สำเร็จ";
+"Failed to upload image. Error Message:" = "อัพโหลดรูปภาพไม่สำเร็จ ข้อความอธิบายความผิดพลาด:";
+"Failed to Copy Image to Target Folder." = "คัดลอกรูปภาพไปที่โฟลเดอร์เป้าหมายไม่สำเร็จ";
+"Select Container Folder" = "เลือกโฟลเดอร์ปัจจุบัน";
+
+"Saved" = "บันทึกแล้ว";
+
+/* place holder in find & replace input */
+"search text" = "ค้นหาข้อความ";
+"replace with" = "แทนที่ด้วย";
+/* search option */
+"Case Sensitive" = "ตรงตามตัวอักษรใหญ่ - เล็ก";
+"Whole Word" = "ทั้งคำ";
+
+"input image URL" = "ระบุ URL ของรูปภาพ";
+"Select image from local file" = "เลือกรูปภาพจากไฟล์ในเครื่อง";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "ไม่สามารถเปิด <code>$1</code>, คุณอาจหมายถึง <a href='https://$3'>https://$2</a> ?";
+
+"select a language" = "เลือกภาษา";
+"Finish Editing" = "แก้ไขเสร็จสิ้น";
+
+"Revert advanced setting file to default one ?" = "ย้อนการตั้งค่าไฟล์ขั้นสูงเป็นค่าเริ่มต้น?";
+
+"Select Spell Check Language" = "เลือกภาษาตรวจตัวสะกด";
+"Auto Detect Language" = "ระบุภาษาอัตโนมัติ";
+"Disable Spell Check" = "ปิดการตรวจตัวสะกด";
+"Global Setting…" = "ตั้งค่าส่วนกลาง…";
+"Dictionary file is missing to enable spellcheck support for %@." = "ไฟล์พจนานุกรมเพื่อใช้ตรวจตัวสะกดสำหรับ %@ หายไป";
+"Install Language Support" = "ติดตั้งตัวช่วยภาษา";
+"License Information" = "ข้อมูลใบอนุญาติ";
+"Download" = "ดาวน์โหลด";
+"Install dictionary file only for Typora" = "ติดตั้งพจนานุกรมสำหรับ Typora เท่านั้น";
+"Spell Check (%@ unavailable)" = "การตรวจตัวสะกด (%@ ไม่พร้อม)";
+"Spell Check (%@ downloading)" = "การตรวจตัวสะกด (%@ กำลังดาวน์โหลด)";
+"Download dictionary file for %@" = "ดาวน์โหลดไฟล์พจนานุกรมสำหรับ %@";
+"(Default spell check option)" = "(ตัวเลือกสำหรับการตรวจตัวสะกดดั่งเดิม)";
+"Failed to load spellcheck module" = "การโหลดโมดูลสำหรับตัวสะกดคำเกิดข้อผิดพลาด";
+
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> ถูกเปิด";
+"You could turn it off from `View` menu." = "คุณสามารถปิดมันได้จากเมนู `มุมมอง`";
+"The file is too large to render in Typora." = "The file is too large to render in Typora.";
+"Open in…" = "Open in…";
+"Quick Look" = "Quick Look";
+
+"Filter" = "Filter";
+"No result found." = "No result found.";
+"Continue & Overwrite" = "Continue & Overwrite";
+"The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
+
+"Learn Data Recovery" = "Learn Data Recovery";
+"Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
+"Delete Permanently" = "Delete Permanently";
